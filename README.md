@@ -15,15 +15,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=58A6FF&center=true&vCenter=true&width=560&lines=hey+%2C+i'm+akash+—+i+build+tools+i+wish+existed;simple+%3E+complex+·+fast+%3E+perfect+·+useful+%3E+fancy;currently+building+RewindDB+%E2%80%94+undo+for+your+experiments)](https://git.io/typing-svg)
 
-</div>
-
 <br/>
 
 ---
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ```
 ╔─ STACK ───────────────────────────────╗
@@ -38,7 +36,7 @@
 ```
 
 </td>
-<td width="50%" valign="top">
+<td valign="top">
 
 ```
 ╔─ STATUS ──────────────────────────────╗
@@ -82,8 +80,6 @@
 <br/>
 
 ---
-
-<div align="center">
 
 ```
 ╔═ CONTRIBUTION GRAPH ══════════════════════════════════════════════════════╗

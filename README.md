@@ -1,107 +1,73 @@
+<h1 align="center">Akash Maurya</h1>
+<h3 align="center">Turning coffee into developer tools and AI agents</h3>
+
+<br/>
+
 <div align="center">
 
-<br/>
+<a href="https://github.com/itsakash-real">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=2000&color=d4a574&center=true&vCenter=true&width=600&lines=I+build+tools+I+wish+existed;Obsessed+with+clean+code+and+dev+experience;Currently+building+Nimbi+%26+Claude+Memory+Forge" alt="Typing SVG" />
+</a>
 
-```
-╔═════════════════════════════════════════════════════════════════╗
-║                                                                 ║
-║   ▍AKASH MAURYA                                  [● ONLINE]    ║
-║   Full Stack Developer  ·  India                               ║
-║                                                                 ║
-║   ◈ Web Apps   ◈ Dev Tools   ◈ CLI Systems   ◈ AI Agents       ║
-║                                                                 ║
-╚═════════════════════════════════════════════════════════════════╝
-```
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=58A6FF&center=true&vCenter=true&width=560&lines=hey+%2C+i'm+akash+—+i+build+tools+i+wish+existed;simple+%3E+complex+·+fast+%3E+perfect+·+useful+%3E+fancy;currently+building+RewindDB+%E2%80%94+undo+for+your+experiments)](https://git.io/typing-svg)
-
-<br/>
-
----
-
-<table>
-<tr>
-<td valign="top">
-
-```
-╔─ STACK ───────────────────────────────╗
-║                                       ║
-║  UI      →  React · TypeScript        ║
-║  Server  →  Node.js · Express         ║
-║  Data    →  PostgreSQL · Redis        ║
-║  Shell   →  Bash · zsh                ║
-║  Now     →  AI Agents · Automation    ║
-║                                       ║
-╚═══════════════════════════════════════╝
-```
-
-</td>
-<td valign="top">
-
-```
-╔─ STATUS ──────────────────────────────╗
-║                                       ║
-║  [▶] Shipping  →  RewindDB (rw)       ║
-║  [▶] Building  →  browser extensions  ║
-║  [▶] Learning  →  AI agent systems    ║
-║  [·] Reading   →  fantasy novels      ║
-║  [·] Open      →  collabs & ideas     ║
-║                                       ║
-╚═══════════════════════════════════════╝
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-```
-╔═ FEATURED: RewindDB ══════════════════════════════════════════════════════╗
-║                                                                           ║
-║   You're experimenting. Something works.                                  ║
-║   You change one thing. Now nothing works. You can't get back.            ║
-║                                                                           ║
-║   rw  is a single binary — undo for the messy part before git.           ║
-║   Not a git replacement. Git is for your team.                            ║
-║   RewindDB is for you, right now, breaking things safely.                 ║
-║                                                                           ║
-║   $ rw snapshot   →  save this moment                                    ║
-║   $ rw list       →  see all snapshots                                    ║
-║   $ rw rewind     →  go back                                              ║
-║                                                                           ║
-║   → github.com/akashmaurya/rewinddb                    [in progress]     ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-```
-╔═ CONTRIBUTION GRAPH ══════════════════════════════════════════════════════╗
-```
-
-![Snake](https://raw.githubusercontent.com/akashmaurya/akashmaurya/output/github-contribution-grid-snake-dark.svg)
-
-```
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://yourportfolio.dev)&nbsp;
-[![Twitter](https://img.shields.io/badge/twitter-0d1117?style=flat-square&logo=x&logoColor=58a6ff)](https://twitter.com/yourusername)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/yourusername)&nbsp;
-[![Email](https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:youremail@gmail.com)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=akashmaurya&color=58a6ff&style=flat-square&label=profile+views)
+<p>
+I'm a Full-Stack Software Engineer from India obsessed with building <b>developer tools, CLI utilities, and AI applications</b> that actually solve real problems. If I find myself doing something manually twice, I write a script for it. If my tools forget things, I give them a brain. <br/><br/>
+<i>Simple > Complex &nbsp;|&nbsp; Fast > Perfect &nbsp;|&nbsp; Useful > Fancy</i>
+</p>
 
 </div>
 
 <br/>
+
+### 🚀 What I'm Shipping
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="left">🧠 Claude Memory Forge</th>
+      <th width="50%" align="left">⏪ Nimbi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        A persistent memory architecture for <b>Claude Code</b>. It generates an automated <code>.claude/</code> context brain customized to your workflow so Claude never forgets who you are, what you're doing, or what tools you use.
+        <br><br>
+        <a href="https://github.com/itsakash-real/Claude-Memory-Forge"><b>Explore Repository →</b></a>
+      </td>
+      <td valign="top">
+        A hyper-fast CLI binary acting as an "undo button" for your local codebase experiments. Because sometimes you just need to break things safely before you're ready to `git commit`.
+        <br><br>
+        <a href="https://github.com/itsakash-real/nimbi"><b>Explore Repository →</b></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+### 🛠️ Core Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<br/>
+
+
+<br/><br/>
+
+<div align="center">
+  <b>Transmit / Connect:</b> <br><br>
+  <a href="https://x.com/its_akashreal"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akash-maurya-121417251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:akashmaurya3160@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
